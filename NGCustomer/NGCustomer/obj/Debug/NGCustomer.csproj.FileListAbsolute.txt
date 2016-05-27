@@ -1,0 +1,5 @@
+C:\Projects\gitHUB\ngWorks\NGCustomer\NGCustomer\bin\NGCustomer.dll
+C:\Projects\gitHUB\ngWorks\NGCustomer\NGCustomer\bin\NGCustomer.pdb
+C:\Projects\gitHUB\ngWorks\NGCustomer\NGCustomer\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\gitHUB\ngWorks\NGCustomer\NGCustomer\obj\Debug\NGCustomer.dll
+C:\Projects\gitHUB\ngWorks\NGCustomer\NGCustomer\obj\Debug\NGCustomer.pdb
